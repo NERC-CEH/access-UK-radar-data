@@ -5,7 +5,7 @@
 
 **Author:** [Tom Keel](https://github.com/Thomasjkeel).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Thomasjkeel/access-UK-radar-data/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NERC-CEH/access-UK-radar-data/HEAD)
 
 ## Description
 This repo goes through how to load in and subset radar data from the following two sources:
